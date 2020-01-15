@@ -1,2 +1,2 @@
 # jquery-input-to-div
-jquery input  min. and max. length validation
+Jquery ile input alanına yazdığımız yazıyı başka bir dive gönderdik. Ayrıca max. ve min. length kısıtlaması getirerek validation denemeleri yaptık.
